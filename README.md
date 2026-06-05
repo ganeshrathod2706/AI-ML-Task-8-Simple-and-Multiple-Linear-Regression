@@ -48,10 +48,12 @@ Target:
 
 ### 4. Correlation Analysis
 - Generated Heatmap to identify relationships between features and target.
+<img width="625" height="528" alt="image" src="https://github.com/user-attachments/assets/a58cf0b8-13e9-432f-8737-b08331ce2b99" />
 
 ### 5. Simple Linear Regression
 - Used TV as the independent feature.
 - Predicted Sales.
+<img width="700" height="470" alt="image" src="https://github.com/user-attachments/assets/f120c7fd-2a5a-4c0d-958a-bbe1c30dbf0b" />
 
 ### 6. Multiple Linear Regression
 - Used TV, Radio, and Newspaper features.
